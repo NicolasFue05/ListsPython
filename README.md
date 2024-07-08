@@ -25,7 +25,5 @@ Este repositorio contiene una serie de ejercicios que abordan diferentes operaci
 
 Cada ejercicio viene con una descripción del problema y, en algunos casos, con ejemplos de entrada y salida esperada.
 
-## Estructura del Repositorio
 
-El repositorio está organizado de la siguiente manera:
 
