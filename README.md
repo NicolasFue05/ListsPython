@@ -34,4 +34,4 @@ Cada ejercicio viene con una descripción del problema y, en algunos casos, con 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone 
+   git clone https://github.com/NicolasFue05/ListsPython.git
