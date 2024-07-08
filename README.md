@@ -25,5 +25,13 @@ Este repositorio contiene una serie de ejercicios que abordan diferentes operaci
 
 Cada ejercicio viene con una descripción del problema y, en algunos casos, con ejemplos de entrada y salida esperada.
 
+## Requisitos
 
+- Python 3.x
 
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone 
